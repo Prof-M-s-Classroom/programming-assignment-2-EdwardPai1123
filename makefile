@@ -4,7 +4,7 @@ CXXFLAGS = -std=c++17 -Wall -Wextra -pedantic
 # Target executable
 TARGET = game
 
-# Source files (only .cpp files, excluding header-only templates)
+# Source files
 SRCS = main.cpp Story.cpp
 OBJS = $(SRCS:.cpp=.o)
 

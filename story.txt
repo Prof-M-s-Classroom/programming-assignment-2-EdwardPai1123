@@ -1,6 +1,34 @@
 1 | You wake up in a forest clearing. There are two paths. | 2 | 3
 2 | You follow the path to the left and encounter a river. | 4 | 5
-3 | You go right and find an old cabin. | 5 | 6
-4 | You swim across the river and find a treasure chest. | -1 | -1
-5 | You find a hidden passageway that leads to a secret room. | 7 | -1
-6 | The cabin is empty. You find a trapdoor leading downwards. | -1
+3 | You go right and find an old cabin. | 6 | 7
+4 | You swim across the river and find a treasure chest. | 8 | 12
+5 | You accidentally find a hidden passageway next to the river that leads to a secret room. | 10 | 13
+6 | The cabin is empty. You find a trapdoor leading downwards. | 9 | 14
+7 | You look behind the cabin and see a glowing box. | 11 | 15
+8 | You open the treasure and win the game. | 33 | 34
+9 | Based on your curiosity, you go down and fall into a trap, and you choose to give up. | -1 | 19
+10 | Then you found out it was a trap now you are surround with College Student's homework, and you decide to end your adventure. | 21 | 22
+11 | You inspect the glowing box carefully and find a hidden key inside. | 8 | 16
+12 | Crazy raccoons incoming. | 23 | 24
+13 | You found a letter in that room that said WHA SUP on that paper. | 25 | 26
+14 | Downstairs was full of kitties. Congrats! | 27 | 28
+15 | You got eaten by that glowing box. | 29 | 30
+16 | Great job, but you got the wrong key for the treasure. | 31 | 32
+17 | You can be teleported back from where you came. | -1 | -1
+18 | Juked! You picked the wrong path. You have to redo it all again. | -1 | -1
+19 | You actually chose to give up, but thanks for playing. | -1 | -1
+20 | The author give you the permission to now exit the game and choose the other path. | -1 | -1
+21 | You finished the homework and decide to look for a job with the knowledge you learned. | -1 | -1
+22 | You did not finish the homework, so the author decides to double the amount. Good luck! | -1 | -1
+23 | You choose to fight back, then get arrested by the World Animal Protection. | -1 | -1
+24 | You feed them cookies and now you’re friends :D. | -1 | -1
+25 | Nothing happened after reading the paper. | -1 | -1
+26 | You notice that on the back side of the paper is a treasure map. A new journey begins! | -1 | -1
+27 | Oh no! You have a cat fur allergy :( | -1 | -1
+28 | You pet every kitten. You and the kittens are satisfied. Win-win! | -1 | -1
+29 | The box chokes on you and spits out you and the nicest treasure. | -1 | -1
+30 | You choose to leave the game before getting eaten. | -1 | -1
+31 | You start searching for another chest in the room, and you find it! | -1 | -1
+32 | You send your location to your mom, and she comes to pick you up for dinner. | -1 | -1
+33 | After winning the game you decide to rate this game 10/10. | -1 | -1
+34 | Well congrats! You win this game, so 10/10 for this game. | -1 | -1
